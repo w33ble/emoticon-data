@@ -68,3 +68,8 @@ test('expected tags', function(t) {
     t.notEqual(tags.indexOf(tag), -1);
   });
 });
+
+test('expected emojicons', function(t) {
+  t.plan(1);
+  t.equal(emoticons.emoticons.length, 1561);
+});
