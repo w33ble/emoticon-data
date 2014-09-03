@@ -4,7 +4,7 @@
   "description": "Collection of japanese emoticons in JSON format",
   "main": "emoticons.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap ./test"
   },
   "repository": {
     "type": "git",
@@ -28,5 +28,9 @@
   "bugs": {
     "url": "https://github.com/w33ble/emoticon-data/issues"
   },
-  "homepage": "https://github.com/w33ble/emoticon-data"
+  "homepage": "https://github.com/w33ble/emoticon-data",
+  "devDependencies": {
+    "lodash": "^2.4.1",
+    "tap": "^0.4.12"
+  }
 }
