@@ -2,6 +2,8 @@ A collection of japanese emoticons in JSON format
 
 ☆*･゜ﾟ･*\\(^O^)/*･゜ﾟ･*☆
 
+[ ![Codeship Status for w33ble/emoticon-data](https://codeship.io/projects/8a249ab0-1532-0132-abca-7e6cc3f5e0be/status)](https://codeship.io/projects/33617)
+
 # Usage
 
 **node**
