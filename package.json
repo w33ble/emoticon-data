@@ -1,0 +1,32 @@
+{
+  "name": "emoticon-data",
+  "version": "0.1.0",
+  "description": "Collection of japanese emoticons in JSON format",
+  "main": "emoticons.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/w33ble/emoticon-data.git"
+  },
+  "keywords": [
+    "emoticons",
+    "emoticon",
+    "emoji",
+    "japanese emoticons",
+    "japanese emoticon",
+    "ascii",
+    "smile",
+    "table flip"
+  ],
+  "author": {
+    "name": "Joe Fleming",
+    "github": "w33ble"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w33ble/emoticon-data/issues"
+  },
+  "homepage": "https://github.com/w33ble/emoticon-data"
+}
