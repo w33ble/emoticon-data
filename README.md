@@ -2,6 +2,22 @@ A collection of japanese emoticons in JSON format
 
 ☆*･゜ﾟ･*\\(^O^)/*･゜ﾟ･*☆
 
+# Usage
+
+**node**
+
+`npm install emoticon-data`
+
+In your code, simply `require('emoticon-data')` and you've got access to all of the data
+
+Retrieve and look up the data with lodash, underscore, or simply by hand
+
+**other**
+
+`git clone https://github.com/w33ble/emoticon-data.git emoticon-data`
+
+Import the `emoticons.json` file and use a JSON parser to get at the data
+
 # License
 
 The MIT License (MIT)
