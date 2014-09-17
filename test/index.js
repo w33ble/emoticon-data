@@ -72,3 +72,23 @@ test('expected emojicons', function(t) {
   t.plan(1);
   t.equal(emoticons.emoticons.length, emoticonCount, 'Emoticon count should be ' + emoticonCount);
 });
+
+test('emoticon tag list', function (t) {
+  var tagList = [];
+  t.plan(tags.length + 1);
+
+  emoticons.emoticons.forEach(function (emoticon) {
+    var dataTags = emoticon.tags;
+    dataTags.forEach(function (dataTag) {
+      if (tagList.indexOf(dataTag) === -1) {
+        tagList.push(dataTag);
+      }
+    });
+  });
+
+  t.equal(tagList.length, tags.length, 'Tag count should be ' + tags.length);
+
+  tags.forEach(function (tag) {
+    t.notEqual(tagList.indexOf(tag), -1, 'Tag does not have any emoticons: ' + tag);
+  });
+});
