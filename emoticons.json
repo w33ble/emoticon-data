@@ -2,107 +2,107 @@
   "emoticons": [
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "(⊃‿⊂)",
       "id": "f73741a5-13f9-44a3-9dfe-4bce15c44cda"
     },
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "|_・)",
       "id": "a98acc57-34f4-4938-9c57-4288bbb6dd69"
     },
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "|･ω･｀)",
       "id": "6ecaf86d-bc75-4a06-8ae3-6c66749c4858"
     },
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "｜−・;）",
       "id": "ac1a0a0d-9628-4cb2-a6b4-e7796170424c"
     },
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "|ω・）",
       "id": "145deeab-c2db-43e2-915f-9beb7ce0277e"
     },
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "|ω･)و ̑̑༉",
       "id": "d3f173b0-ccbc-4255-b29d-7fc823446e9e"
     },
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "( ͒•·̫|",
       "id": "e814d7aa-492b-45ba-a4d7-1297ef013dbe"
     },
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "┬┴┬┴┤(･_├┬┴┬┴",
       "id": "2ccc92b4-1039-4267-b4b0-514db6189428"
     },
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "ﾍ(･_|",
       "id": "f9a0e21b-ba48-441e-a243-77d14665fc7d"
     },
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "|₋ॢọ̶̶̷̥᷅๑)‧˚⁺",
       "id": "58288129-6ee9-4ef9-b3ed-a5cef88c303f"
     },
     {
       "tags": [
-        "hiding",
-        "waving"
+        "hide",
+        "wave"
       ],
       "string": "川o･-･)ﾉ",
       "id": "670e6439-387c-406a-b877-abf2b2c9d7f1"
     },
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "┻┳|･ω･)",
       "id": "5a871797-cfd8-43b4-bc3e-205457dee005"
     },
     {
       "tags": [
-        "hiding",
-        "waving"
+        "hide",
+        "wave"
       ],
       "string": "┻┳|･ω･)ﾉ",
       "id": "6ed31d45-c5ca-4893-8ad5-bed3e6d111d1"
     },
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "(*σᴗσ)(ㅎᴗㅎ )　｜‸눈;)",
       "id": "4304abcd-1aa7-44c7-b9eb-4b1ff5838d99"
     },
     {
       "tags": [
-        "hiding"
+        "hide"
       ],
       "string": "| ू•ૅω•́)ᵎᵎᵎ",
       "id": "584872cd-f48a-40ee-b988-a4dc220bb009"
@@ -801,7 +801,7 @@
     {
       "tags": [
         "excited",
-        "dancing"
+        "dance"
       ],
       "string": "(ﾉ･ｪ･)ﾉ",
       "id": "3b6278b5-fbfc-449f-bd41-0898c084acd3"
@@ -818,7 +818,7 @@
       "tags": [
         "excited",
         "happy",
-        "dancing"
+        "dance"
       ],
       "string": "＼(^▽^＠)ノ",
       "id": "24cdb4ff-c870-4714-85eb-7e8bbcb882ac"
@@ -889,7 +889,7 @@
     {
       "tags": [
         "excited",
-        "dancing"
+        "dance"
       ],
       "string": "(ﾉ≧∀≦)ﾉ",
       "id": "547cbbb7-764c-4d84-be66-0d65c5821400"
@@ -912,7 +912,7 @@
       "tags": [
         "excited",
         "happy",
-        "crying"
+        "cry"
       ],
       "string": "＼(*T▽T*)／",
       "id": "4b44312e-3770-4aa5-ab99-8c4c37facb1b"
@@ -928,7 +928,7 @@
       "tags": [
         "excited",
         "happy",
-        "crying"
+        "cry"
       ],
       "string": "＼（Ｔ∇Ｔ）／",
       "id": "a4fd6ef7-8598-4d50-92b1-1c3a8db8c89f"
@@ -960,7 +960,7 @@
       "tags": [
         "excited",
         "happy",
-        "dancing"
+        "dance"
       ],
       "string": "ヽ(;^o^ヽ)",
       "id": "a4a7a579-afe3-493f-90ad-babb75fe14b2"
@@ -969,7 +969,7 @@
       "tags": [
         "excited",
         "happy",
-        "crying"
+        "cry"
       ],
       "string": "ヽ(；▽；)ノ",
       "id": "4e745075-28ec-4f4c-923e-3effcb6aec0f"
@@ -985,7 +985,7 @@
       "tags": [
         "excited",
         "happy",
-        "crying"
+        "cry"
       ],
       "string": "ヾ(＠† ▽ †＠）ノ",
       "id": "0e174db8-571b-4e63-9a62-e4ac9041b0d7"
@@ -994,7 +994,7 @@
       "tags": [
         "excited",
         "happy",
-        "dancing"
+        "dance"
       ],
       "string": "ヾ(＠^∇^＠)ノ",
       "id": "55d2f8e1-7dd4-4c7e-af5e-90f600ed848d"
@@ -1158,7 +1158,7 @@
     {
       "tags": [
         "excited",
-        "laughing"
+        "laugh"
       ],
       "string": "∗˚(* ˃̤൬˂̤ *)˚∗",
       "id": "76b3dc47-a35f-480f-a119-40b6f5cf0ecb"
@@ -1173,7 +1173,7 @@
     {
       "tags": [
         "excited",
-        "thinking"
+        "think"
       ],
       "string": "(❛ัॢᵕ❛ั ॢ)✩*ೃ.⋆",
       "id": "dc8ad2e4-8a00-415f-aa2b-364feac890ed"
@@ -1202,7 +1202,7 @@
     {
       "tags": [
         "excited",
-        "kissing"
+        "kiss"
       ],
       "string": "σ(≧ε≦ｏ)",
       "id": "c26af24b-1a50-4486-8def-7bcaa043f15f"
@@ -1233,7 +1233,7 @@
     {
       "tags": [
         "excited",
-        "crying"
+        "cry"
       ],
       "string": "(٭°̧̧̧ω°̧̧̧٭)",
       "id": "7364cbd1-5776-410c-be1c-6a0f67e3d2e4"
@@ -1292,7 +1292,7 @@
     {
       "tags": [
         "happy",
-        "hugging"
+        "hug"
       ],
       "string": "⊂((・▽・))⊃",
       "id": "d024cf21-b02b-464c-882f-952cd3099ae8"
@@ -1300,7 +1300,7 @@
     {
       "tags": [
         "happy",
-        "waving"
+        "wave"
       ],
       "string": "(≧∇≦)/",
       "id": "a7a6c945-6afb-4b1f-81b6-c20cc29f27c5"
@@ -1322,7 +1322,7 @@
     {
       "tags": [
         "happy",
-        "waving"
+        "wave"
       ],
       "string": "( ´ ▽ ` )ﾉ",
       "id": "7a25ae6b-e9c5-494c-b76b-9fc14c7c56fb"
@@ -1379,7 +1379,7 @@
     {
       "tags": [
         "happy",
-        "laughing"
+        "laugh"
       ],
       "string": "（　´∀｀）",
       "id": "34d23b81-2287-4c4e-b6ff-f819d87fe02d"
@@ -1422,7 +1422,7 @@
     {
       "tags": [
         "happy",
-        "hugging"
+        "hug"
       ],
       "string": "d=(´▽｀)=b",
       "id": "3b0a61af-459d-48fb-aff9-62800f9e2ba4"
@@ -1475,7 +1475,7 @@
     {
       "tags": [
         "happy",
-        "dancing"
+        "dance"
       ],
       "string": "ヽ(´ー`)ﾉ",
       "id": "83253f50-82c8-4bf8-a5f2-2e945b74415c"
@@ -1625,7 +1625,7 @@
     {
       "tags": [
         "happy",
-        "dancing",
+        "dance",
         "music"
       ],
       "string": "ヾ(´▽｀;)ゝ",
@@ -1664,7 +1664,7 @@
     {
       "tags": [
         "happy",
-        "sleeping"
+        "sleep"
       ],
       "string": "（-＾〇＾-）",
       "id": "fb702225-f078-4d29-85bb-56b1c7d5652c"
@@ -1672,7 +1672,7 @@
     {
       "tags": [
         "happy",
-        "laughing"
+        "laugh"
       ],
       "string": "（＞ｙ＜）",
       "id": "a711fe6f-786b-4796-8785-57190ba1e37e"
@@ -1688,7 +1688,7 @@
     {
       "tags": [
         "happy",
-        "laughing"
+        "laugh"
       ],
       "string": "（＾ｖ＾）",
       "id": "716beca2-7daa-4e78-9a73-d7b47be3cb07"
@@ -1712,7 +1712,7 @@
     {
       "tags": [
         "happy",
-        "laughing"
+        "laugh"
       ],
       "string": "(ノ＞▽＜。)ノ",
       "id": "64bdabe5-d59b-4648-8bbc-26bfe1d92923"
@@ -1720,7 +1720,7 @@
     {
       "tags": [
         "happy",
-        "crying"
+        "cry"
       ],
       "string": "＼（＠；◇；＠）／",
       "id": "cd029a6c-92e2-41e4-badd-0a9a4044746c"
@@ -1736,7 +1736,7 @@
     {
       "tags": [
         "happy",
-        "crying"
+        "cry"
       ],
       "string": "(o;TωT)o",
       "id": "a3fab47e-871f-4e35-9b81-eb36f92ab1af"
@@ -1759,7 +1759,7 @@
     {
       "tags": [
         "happy",
-        "waving",
+        "wave",
         "fun"
       ],
       "string": "ヾ(＠⌒ー⌒＠)ノ",
@@ -1828,7 +1828,7 @@
       "tags": [
         "happy",
         "love",
-        "hugging"
+        "hug"
       ],
       "string": "ლ(́◉◞౪◟◉‵ლ)",
       "id": "a069c9b2-b809-46e0-b279-48fd2d86c5bc"
@@ -1879,7 +1879,7 @@
     {
       "tags": [
         "happy",
-        "thinking"
+        "think"
       ],
       "string": "(¬‿¬)",
       "id": "8bedc4ec-1dfd-4efb-9f13-e64aefe95ea2"
@@ -1917,8 +1917,8 @@
     {
       "tags": [
         "happy",
-        "waving",
-        "running"
+        "wave",
+        "run"
       ],
       "string": "☆ﾐ(o*･ω･)ﾉ",
       "id": "a3d7d9f6-44d8-4ca0-8757-f188ef8d9921"
@@ -1954,7 +1954,7 @@
     {
       "tags": [
         "happy",
-        "thinking"
+        "think"
       ],
       "string": "( ͡° ͜ʖ ͡°)",
       "id": "e8d9815c-901c-4758-af48-ff92f923ad46"
@@ -2262,7 +2262,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "( c//”-}{-*\\x)",
       "id": "97c9f530-f97f-4b8a-8f4e-032f4f4716d3"
@@ -2327,7 +2327,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "( ˘ ³˘)♥",
       "id": "ece6bfd7-fda7-431e-a1f1-c72f55b3f26c"
@@ -2335,7 +2335,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "( ˘ ³˘)❤",
       "id": "223ec397-6331-4792-9783-8f4fed1809e9"
@@ -2343,7 +2343,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "( ⋆•ิ ᴈ-ิ(ᵕ❥ ᵕ⁎ ॢ)",
       "id": "9f3ef1d7-9653-4fb8-896f-1784f08a1a11"
@@ -2358,7 +2358,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "(｡・//ε//・｡)",
       "id": "e8756195-2195-44af-9597-fd079216384f"
@@ -2412,7 +2412,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "（*＾3＾）/～♡",
       "id": "1e02efc7-e0c3-4b53-a22e-0fee345641b8"
@@ -2427,7 +2427,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "（´・｀ ）♡",
       "id": "190b82a9-8c1e-4b6f-ac84-7c05040162a2"
@@ -2442,7 +2442,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "(´ε｀ )♡",
       "id": "e791d3d7-46e1-4526-abe0-a30a475389c1"
@@ -2478,7 +2478,7 @@
     {
       "tags": [
         "love",
-        "hugging"
+        "hug"
       ],
       "string": "(>^_^)><(^o^<)",
       "id": "b5850fab-fd47-4211-ad1a-7f107ec6a3ad"
@@ -2529,7 +2529,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "(ɔˆ ³(ˆ⌣ˆc)",
       "id": "98378c5e-1a12-43f8-89d1-db954b10b268"
@@ -2537,7 +2537,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "(ʃƪ ˘ ³˘)",
       "id": "99ebde7b-bec4-4db3-b65d-4b20f576847f"
@@ -2545,7 +2545,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "(ʃƪ˘ﻬ˘)",
       "id": "3ac2405a-7739-4989-8a48-d02cf23b06de"
@@ -2560,8 +2560,8 @@
     {
       "tags": [
         "love",
-        "hugging",
-        "kissing"
+        "hug",
+        "kiss"
       ],
       "string": "(づ￣ ³￣)づ",
       "id": "0bfaebf0-9444-4105-b469-7db2c4ba36ab"
@@ -2569,7 +2569,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "(っ˘з(˘⌣˘ )",
       "id": "3791730b-30fb-4153-8a11-d5fbcc19e342"
@@ -2759,7 +2759,7 @@
     {
       "tags": [
         "love",
-        "thinking"
+        "think"
       ],
       "string": "ॱ॰⋆(˶ॢ‾᷄﹃‾᷅˵ॢ)ӵᵘᵐᵐᵞ♡♡♡",
       "id": "45329cfb-88c1-48eb-a369-1cab8656ba35"
@@ -2802,7 +2802,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "(๑•з•)))⋆*♡*⋆ฺ=͟͟͞͞=͟͟͞͞",
       "id": "479475aa-a22c-4933-943e-b9071b0574df"
@@ -2831,7 +2831,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "ლ(´◉❥◉｀ლ)",
       "id": "78dbe61c-cefe-4ce0-85ab-00963c221f7c"
@@ -2923,7 +2923,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "( ๑ ᴖ ᴈ ᴖ)ᴖ ᴑ ᴖ๑)❣",
       "id": "7ab1958e-eddd-496a-bf4f-980504299245"
@@ -2945,7 +2945,7 @@
     {
       "tags": [
         "love",
-        "hugging"
+        "hug"
       ],
       "string": "(ღ˘⌣˘)❛ั◡❛ัღ)",
       "id": "ae74405e-c057-4da2-b848-1394de138543"
@@ -2953,7 +2953,7 @@
     {
       "tags": [
         "love",
-        "thinking"
+        "think"
       ],
       "string": "(*´ ˘ `*).｡oO ( ♡ )",
       "id": "47b47de3-fc25-47a5-992d-6eba215c5152"
@@ -3067,7 +3067,7 @@
     {
       "tags": [
         "love",
-        "hugging"
+        "hug"
       ],
       "string": "٩(๑•◡-๑)۶ⒽⓤⒼ❤",
       "id": "d28385c4-cde4-4602-a7b0-896c24159d24"
@@ -3075,7 +3075,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "～(^з^)-♡",
       "id": "3ceba51c-9074-4c72-9276-333c667e7ac1"
@@ -3083,7 +3083,7 @@
     {
       "tags": [
         "love",
-        "waving"
+        "wave"
       ],
       "string": "ヾ(◍’౪`◍)ﾉﾞ♡",
       "id": "85168005-65ae-4267-854a-afd571814f64"
@@ -3098,7 +3098,7 @@
     {
       "tags": [
         "love",
-        "kissing"
+        "kiss"
       ],
       "string": "ლ(|||⌒εー|||)ლ",
       "id": "ee591b7a-81b0-441b-91f2-4da63bd4bdce"
@@ -3197,7 +3197,7 @@
     {
       "tags": [
         "angry",
-        "sleeping"
+        "sleep"
       ],
       "string": "（;≧皿≦）",
       "id": "80a8023a-b13b-487a-8bee-78cba4e76d23"
@@ -3254,7 +3254,7 @@
     {
       "tags": [
         "angry",
-        "thinking"
+        "think"
       ],
       "string": "（；¬＿¬)",
       "id": "11c2778c-f8e0-4ab8-88d4-d0bbcc5b39c7"
@@ -3262,7 +3262,7 @@
     {
       "tags": [
         "angry",
-        "thinking"
+        "think"
       ],
       "string": "(;¬_¬)",
       "id": "0b58198d-de6c-4293-b753-908633f063ea"
@@ -3319,7 +3319,7 @@
     {
       "tags": [
         "angry",
-        "waving"
+        "wave"
       ],
       "string": "(¬_¬)ﾉ",
       "id": "40598b53-edc9-4925-a414-9fd2088fd67b"
@@ -3517,7 +3517,7 @@
     {
       "tags": [
         "angry",
-        "sleeping"
+        "sleep"
       ],
       "string": "ᕙ(⇀‸↼‶)ᕗ",
       "id": "7cb94413-07b7-4f90-a13f-ffc419efe1e8"
@@ -3546,7 +3546,7 @@
     {
       "tags": [
         "angry",
-        "thinking"
+        "think"
       ],
       "string": "(¬_¬)",
       "id": "a66e4bbb-60eb-4b2c-a6b9-3b8868b73e80"
@@ -3618,7 +3618,7 @@
     {
       "tags": [
         "angry",
-        "thinking"
+        "think"
       ],
       "string": "(҂⌣̀_⌣́)",
       "id": "c7fde051-ab89-4994-845c-fca7fda4519c"
@@ -3626,7 +3626,7 @@
     {
       "tags": [
         "angry",
-        "crying"
+        "cry"
       ],
       "string": "ͼ(ݓ_ݓ)ͽ",
       "id": "40250859-3c25-4080-9139-2d58d24b83b8"
@@ -3641,7 +3641,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "（ ; ; ）",
       "id": "f3f9c3ee-3c08-452d-86af-dff4421bd56f"
@@ -3649,7 +3649,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(T＿T)",
       "id": "7ca16401-db61-470e-b3c5-5afadb7585e9"
@@ -3657,7 +3657,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "（ ＴДＴ）",
       "id": "ee991120-59f5-41b0-b305-1561a7d305fe"
@@ -3665,7 +3665,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(ToT)",
       "id": "006a9fb8-df36-4e96-b136-a8e5ae35794a"
@@ -3673,7 +3673,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(Ｔ▽Ｔ)",
       "id": "07ac7c7c-4fd1-4960-887f-c616cadfe830"
@@ -3695,7 +3695,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(T_T)",
       "id": "93be491e-de5f-488b-be90-c2fb74728fac"
@@ -3703,7 +3703,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "((T.T； )",
       "id": "5e698280-1f50-4d67-b8ba-445b4d7f5c68"
@@ -3711,7 +3711,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(； T.T))",
       "id": "286c049a-fc48-4a4c-8a15-2447253d2a58"
@@ -3719,7 +3719,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "（；へ：）",
       "id": "cd62efb6-bb16-455e-8b15-cb47c34b277a"
@@ -3727,7 +3727,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(ノД`)・゜・。",
       "id": "c2ccc177-6835-4c38-8070-fb15ecca077e"
@@ -3770,7 +3770,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "｡：ﾟ(｡ﾉω＼｡)ﾟ･｡",
       "id": "7f881679-854d-4834-98d7-d41d56a59774"
@@ -3778,7 +3778,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(┳Д┳)",
       "id": "1560de46-efe8-4c16-a95b-9bf18d961901"
@@ -3786,7 +3786,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(´；д；`)",
       "id": "099c1adf-8050-49fe-a9d4-031184088fae"
@@ -3794,7 +3794,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(*´；ェ；`*)",
       "id": "6923482c-74d9-4ba5-b840-2c418cb7a450"
@@ -3802,7 +3802,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "｡･ﾟﾟ･(>д<)･ﾟﾟ･｡",
       "id": "e245cb29-3a68-4ea4-883a-e48b7429344c"
@@ -3810,7 +3810,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(。┰ω┰。)",
       "id": "48689a58-0770-4bc8-9bd2-aa17050f6e3c"
@@ -3825,7 +3825,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "（ｉДｉ）",
       "id": "79682d3d-0890-496a-bc5d-b4ee59148cec"
@@ -3833,7 +3833,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(´；ω；`)",
       "id": "93eff516-cbd2-495a-9e87-c5737c9d573a"
@@ -3841,7 +3841,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "。ﾟ(ﾟﾉД｀ﾟ)ﾟ｡",
       "id": "dbda2203-c7d9-41b5-b745-42e884378e90"
@@ -3877,7 +3877,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "( p_q)",
       "id": "b0b00d93-fd4b-4999-97b1-2623a2f1118e"
@@ -3885,7 +3885,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(╯︵╰,)",
       "id": "1b1daba2-3a7a-46c7-8a87-aaeb31737115"
@@ -3893,7 +3893,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(个_个)",
       "id": "35b3c799-8007-466e-af6f-f054060385eb"
@@ -3915,7 +3915,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "｡゜(｀Д´)゜｡",
       "id": "fa752a2b-c37b-46c1-bffd-a90d48b30d9c"
@@ -3930,7 +3930,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(/□＼*)・゜",
       "id": "c61bd5da-e186-4f27-b46d-db5386d9712a"
@@ -3938,7 +3938,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "((o(;△;)o))",
       "id": "0493141a-3a8e-4782-ba38-05efbf1c2e0d"
@@ -3954,7 +3954,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(ㄒoㄒ)",
       "id": "9f3bd224-8411-4d42-89f0-684b3c824da4"
@@ -3969,7 +3969,7 @@
     {
       "tags": [
         "sad",
-        "crying",
+        "cry",
         "surrender"
       ],
       "string": "o(╥﹏╥)o",
@@ -3978,7 +3978,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "o(；△；)o",
       "id": "d187aaeb-7fc0-4c8a-9e96-e9ea4314cdc3"
@@ -3986,7 +3986,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(;*△*;)",
       "id": "1c46b358-24db-440b-b670-cbf293d6446e"
@@ -4001,7 +4001,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "╥﹏╥",
       "id": "54533e43-0f69-4796-9eae-c09e2e8837eb"
@@ -4009,7 +4009,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)",
       "id": "e6dc4ede-9378-45d8-b039-90b422b5f587"
@@ -4031,7 +4031,7 @@
     {
       "tags": [
         "sad",
-        "crying"
+        "cry"
       ],
       "string": "(╥_╥)",
       "id": "191fdd3a-a27f-4edf-acf0-a2ef26485cc1"
@@ -4039,7 +4039,7 @@
     {
       "tags": [
         "sad",
-        "hugging"
+        "hug"
       ],
       "string": "(っ˘̩╭╮˘̩)っ",
       "id": "6aecf622-d886-4946-8ee4-b97190a06204"
@@ -4237,7 +4237,7 @@
     {
       "tags": [
         "embarassed",
-        "kissing"
+        "kiss"
       ],
       "string": "(#^.^#)",
       "id": "0243cb90-7e34-4e78-9206-2d45580e8a8d"
@@ -4927,7 +4927,7 @@
     {
       "tags": [
         "cat",
-        "dancing"
+        "dance"
       ],
       "string": "ヽ(^‥^=ゞ)",
       "id": "9b6b10b5-c472-4704-87ae-ce443cebfe9c"
@@ -5027,7 +5027,7 @@
     {
       "tags": [
         "cat",
-        "dancing"
+        "dance"
       ],
       "string": "└(=^‥^=)┐",
       "id": "706d81a1-a744-4bec-b4a9-717b7f444392"
@@ -5140,7 +5140,7 @@
     {
       "tags": [
         "bear",
-        "waving"
+        "wave"
       ],
       "string": "(￣(ｴ)￣)ﾉ",
       "id": "2fee6e02-faf3-496d-aca1-ae0e26b0d261"
@@ -5176,7 +5176,7 @@
     {
       "tags": [
         "bear",
-        "waving"
+        "wave"
       ],
       "string": "ヾ(´(ｴ)｀ﾉﾞ",
       "id": "d2002780-8d41-4912-b071-cbc91cf34832"
@@ -5198,7 +5198,7 @@
     {
       "tags": [
         "bear",
-        "waving"
+        "wave"
       ],
       "string": "“(`(エ)´)ノ",
       "id": "2f46120d-b4c2-41ba-b77b-9d5b5dadebd3"
@@ -5417,7 +5417,7 @@
     {
       "tags": [
         "evil",
-        "laughing"
+        "laugh"
       ],
       "string": "“ψ(｀∇´)ψ",
       "id": "e1db56dd-2075-494c-8f0e-0b093f5cf3fb"
@@ -5728,7 +5728,7 @@
     {
       "tags": [
         "crazy",
-        "waving"
+        "wave"
       ],
       "string": "ヘ(゜Д、゜)ノ",
       "id": "a23bb2b7-10d7-4f44-972b-4730d2e284e5"
@@ -5736,7 +5736,7 @@
     {
       "tags": [
         "crazy",
-        "waving"
+        "wave"
       ],
       "string": "ヘ(°◇、°)ノ",
       "id": "ab4a45bc-b03e-484d-b566-aaa654bd7479"
@@ -5884,7 +5884,7 @@
     {
       "tags": [
         "dog",
-        "dancing"
+        "dance"
       ],
       "string": "┌U･ｪ･U┘",
       "id": "e961e7e6-8ec3-4cc0-bf4c-e3a26bf6481f"
@@ -5893,7 +5893,7 @@
       "tags": [
         "dog",
         "monkey",
-        "dancing"
+        "dance"
       ],
       "string": "└@(･ｪ･)@┐",
       "id": "f8f4f3d2-ea01-4f82-ba5d-fe8b5bf9df26"
@@ -6111,7 +6111,7 @@
     {
       "tags": [
         "pig",
-        "waving"
+        "wave"
       ],
       "string": "(￣(oo)￣)ﾉ",
       "id": "cedf629a-9631-4bae-823e-87bcf5ed6f99"
@@ -6161,7 +6161,7 @@
     {
       "tags": [
         "pig",
-        "crying"
+        "cry"
       ],
       "string": "｡ﾟ(ﾟ´(00)`ﾟ)ﾟ｡",
       "id": "a49a818f-6b59-4b13-a0e2-5b4456d254bb"
@@ -6295,7 +6295,7 @@
     {
       "tags": [
         "hurt",
-        "crying"
+        "cry"
       ],
       "string": "⁽⁽ƈ ͡ (ु ˲̥̥̥́ ˱̥̥̥̀) ु⁾⁾",
       "id": "6712d457-4cf0-400d-b85d-0ecb98dd4f35"
@@ -6492,7 +6492,7 @@
     {
       "tags": [
         "rabbit",
-        "crying"
+        "cry"
       ],
       "string": "( °̥̥̥̥̥̥̥̥˟°̥̥̥̥̥̥̥̥ )",
       "id": "460b762c-b13f-4750-85ce-00c1d7659838"
@@ -6534,511 +6534,511 @@
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(/・・)ノ",
       "id": "74b50f26-8221-4946-a008-47f6e2161708"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(o´･_･)っ",
       "id": "136bdb68-b918-4080-9d89-4c112c6a400c"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(ﾉ*ﾟｰﾟ)ﾉ",
       "id": "c0eea1a1-ab18-47c3-925e-faaaee924e67"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(ノ￣ー￣)ノ",
       "id": "67dbbd97-d470-45d6-bfc3-9377b58af1ec"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "＼(ﾟｰﾟ＼)",
       "id": "92621797-6496-49e7-a9bb-160edf8f252d"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "♪(┌・。・)┌",
       "id": "9fd57e8e-9d01-4a8d-afa5-8b4aef6b913b"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヽ(･ω･ゞ)",
       "id": "1b1e4ba8-5561-4a89-baa9-f3a80bb4af3d"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヽ(*ﾟｰﾟ*)ﾉ",
       "id": "79d29288-078e-428f-adf3-9943a4217d10"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "〜(^∇^〜）",
       "id": "9043e381-8662-4db4-91a9-c18750e42e66"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "〜(￣△￣〜)",
       "id": "aeb9cbf4-25e0-4b99-aeab-f495d3198cb9"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "。(⌒∇⌒。)",
       "id": "866ff22b-6fbb-4659-8d43-2d86d3e4eb20"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "( ﾉ^ω^)ﾉﾟ",
       "id": "460c5566-8b9b-47c5-9005-b994303c4879"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "（〜^∇^)〜",
       "id": "cdafa743-8069-4e5e-91ac-111566f23697"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(〜￣△￣)〜",
       "id": "589de123-602a-4916-9587-3b86d94e7ce8"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(。⌒∇⌒)。",
       "id": "776f2449-ef9a-498e-8f41-b39768130483"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "₍₍ ◝(・ω・)◟ ⁾⁾",
       "id": "e1d058b7-a3ec-48bc-861e-22859c61427f"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "((┌|o^▽^o|┘))♪",
       "id": "e470f831-a554-42c3-a52a-6f50a8efa5b8"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(*ﾉ´□`)ﾉ",
       "id": "d93427f8-3845-43a1-add7-b9a82cf837b9"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(ˇ_ˇ”) ƪ(˘⌣˘)┐ ƪ(˘⌣˘)ʃ ┌(˘⌣˘)ʃ",
       "id": "a3cdd676-1f7d-4606-aa35-7b7cf3089731"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(~‾⌣‾)~",
       "id": "080d6bd8-e530-4f61-858e-4f6f8ee9cf17"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(~‾▿‾)~",
       "id": "973474b8-3da1-4946-9ea1-6e4725c53cf7"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(~’.’)~",
       "id": "5f157b76-a736-481e-ad2e-b666096f6d38"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(~￣▽￣)~",
       "id": "41bbcc89-d210-49a2-99ad-f0d01c819d75"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(~˘▾˘)~",
       "id": "61d79fc1-09f9-4c36-bfe7-4da156f5070d"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(┌ﾟдﾟ)┌",
       "id": "8cab3840-c6a2-4c31-9de7-faf15530a30c"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(o^^)o",
       "id": "ce8f1e0a-f151-4bad-9cc6-aa4b5a4fcda0"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(ﾉ･o･)ﾉ",
       "id": "b6ca054b-c8bf-444c-9177-fc4bb3d44901"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(ノ‥)ノ",
       "id": "4c5f229e-b9c0-4eef-8fee-bf12161ed58e"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(ノ´＿ゝ｀）ノ",
       "id": "124fd16a-b54d-4eac-a078-822dff34515e"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(ノ^_^)ノ",
       "id": "bdb13661-6ae6-4177-bae8-a1d890ecd308"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(ノ^o^)ノ",
       "id": "627e1906-9b8c-4621-8464-5c3c69fb3801"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(ノ￣ω￣)ノ",
       "id": "5b464329-b5f2-4906-a02f-62bbfaa9ed64"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(ノ°ο°)ノ",
       "id": "5fa07332-05d6-4523-aff0-b3fd9703235f"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "(ﾉﾟ▽ﾟ)ﾉ",
       "id": "daa7a6f1-7fb6-4fa3-aea4-a81d133b3267"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "〈( ^.^)ノ",
       "id": "4ae7f382-1aa9-43fd-b5a4-c63bce595e5e"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "\\(._.\\) ƪ(‘-’ ƪ)(ʃ ‘-’)ʃ (/._.)/",
       "id": "0c00e854-24e2-44a7-8d46-f344fa5a46f3"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "＼(^ω^＼)",
       "id": "fb4360cc-aaec-4e32-af2b-52f568f87d78"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "~(‾⌣‾~)",
       "id": "ed7ee5f4-d050-45ef-89a8-0788c86c1e9f"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "~(‾▿‾)~",
       "id": "9cf004e3-9e9f-4c1e-a310-406883aea594"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "~(‾▿‾~)",
       "id": "d2c95d15-3fc3-4b1c-a576-04504b809675"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "~(‘.’~)",
       "id": "d3c73ad1-1170-4c07-8519-5bb4755464a5"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "~(˘▾˘)~",
       "id": "5e50fa62-d7c8-4933-9703-0396f24cec0a"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "~(˘▾˘~)",
       "id": "ed80351d-9b6c-459b-b78e-5dd04ef59c08"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "┌(・。・)┘♪",
       "id": "00748abf-f103-461a-adeb-0af8ff390cd7"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "┌(˘⌣˘)ʃ",
       "id": "f5e8b1ba-5511-4137-a617-97c784b680e7"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "┌（★ｏ☆）┘",
       "id": "55c93cd7-7c11-429e-b92b-3e78dce83687"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "┌(ﾟдﾟ)┘",
       "id": "bdd54b4d-49ca-4141-90c6-592bcd14801c"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "┌|゜з゜｜┘",
       "id": "b2f60017-4dcf-47b0-969d-18a95a583d78"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "┌|°з°|┘",
       "id": "04c5d436-7a72-447a-948a-f77fc140e3f0"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "┏((＝￣(ｴ)￣=))┛",
       "id": "bbc2cef6-1853-4ea5-828c-96c3364b2626"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "┏(｀ー´)┛",
       "id": "beb0cd59-621c-4bb8-a308-78abf4957b29"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "┏(＾0＾)┛",
       "id": "b9f03301-d69b-4dfe-bd3e-0d3f484e8e6a"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "┐(ﾟдﾟ┐)",
       "id": "925fbf70-4afb-4e51-9c41-1465af85d73f"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "└(^o^)┐",
       "id": "390fe41f-68d4-43f7-9bb3-03a03a8b4733"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "└（★ｏ★）┐",
       "id": "3e4330ec-2622-42fe-bd91-f3d74dcd1150"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "└(ﾟдﾟ)┐",
       "id": "b4f394f9-d463-4ae3-8aa3-c0983c219859"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "└｜゜ε゜｜┐",
       "id": "f136187a-b9e6-46e0-a8bd-929e664d0190"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "└|°ε°|┐",
       "id": "2ef79722-e88e-4cad-822b-41bdb826b2af"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "┗(｀ー´)┓",
       "id": "9d7ec1c0-a7ea-46b5-850e-52e8a46d4d91"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "┗(＾0＾)┓",
       "id": "90523a36-d2af-4e8a-8a1d-5955677af5fc"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "♪((└|o^▽^o|┐))",
       "id": "22ee520a-26b1-4a24-bdee-4e7d06e2936e"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヽ( °◇°)ノ",
       "id": "1fcb77fb-b1b1-4fe4-98e1-e86f8769a428"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヾ(-_- )ゞ",
       "id": "8339e42d-9721-46c8-8ec7-8e358a0e93c1"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヾ(･ω･*)ﾉ",
       "id": "d17c66ea-610c-4c3e-9023-243fd519dcac"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヾ(*´∇`)ﾉ",
       "id": "5bf31a68-a959-447b-93d8-2f02547b8a25"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヽ(*´Д｀*)ﾉ",
       "id": "79a4d095-bb90-4f01-89be-eff2b3b1310a"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヾ（*⌒ヮ⌒*）ゞ",
       "id": "49912f9d-c130-4c41-8307-0dfe0916d5af"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヾ(*д*)ﾉ",
       "id": "05868d61-2a6b-4f82-92f7-2d962f882abb"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヾ(^ ^ゞ",
       "id": "7573652e-2b7c-4d1e-8995-558ee995cda9"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヾ(^^ゞ)",
       "id": "868eef9b-b9f5-4173-b5fc-a8ad8c31b307"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヽ(°◇° )ノ",
       "id": "e0765027-acc4-40da-866e-b1d3beaf4fc6"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヾ(ﾟ∀ﾟゞ)",
       "id": "b2c49aec-1dd7-4c77-935d-4703e43aaf14"
     },
     {
       "tags": [
-        "dancing",
+        "dance",
         "fun"
       ],
       "string": "ヾ(⌐■_■)ノ♪",
@@ -7046,49 +7046,49 @@
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヽ(⌐■_■)ノ♪♬",
       "id": "5c76363d-35c7-4910-a816-4610c8ce622e"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヽ(ﾟｰﾟ*ヽ)",
       "id": "755bfa55-b0c1-4175-bfbf-822ea9f2b68c"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "o(^^o)",
       "id": "c5f60515-a925-4057-8be8-642c08b484c5"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ƪ(‾.‾“)┐",
       "id": "0e93da8b-2835-47cf-acd0-636aa335433b"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ƪ(˘⌣˘)┐",
       "id": "042a12f9-dcb9-4c06-ae88-c42a34e64c0e"
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ƪ(˘⌣˘)ʃ",
       "id": "4a518e56-de56-47cf-99d6-24bb4512af83"
     },
     {
       "tags": [
-        "dancing",
+        "dance",
         "fun",
         "happy"
       ],
@@ -7097,14 +7097,14 @@
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヘ(^o^ヘ)",
       "id": "b8a3ccfa-7eaa-4f7a-9849-267c9f07976b"
     },
     {
       "tags": [
-        "dancing",
+        "dance",
         "surrender"
       ],
       "string": "ヘ(￣ー￣ヘ)",
@@ -7112,29 +7112,29 @@
     },
     {
       "tags": [
-        "dancing"
+        "dance"
       ],
       "string": "ヘ(￣ω￣ヘ)",
       "id": "8ca82bf3-8491-4b98-abdb-267ca651f6ee"
     },
     {
       "tags": [
-        "hugging"
+        "hug"
       ],
       "string": "(Ɔ˘⌣˘)(˘⌣˘)˘⌣˘ C)",
       "id": "de1c453c-3dc3-4f6e-b76e-df32cc0a22c7"
     },
     {
       "tags": [
-        "hugging",
-        "kissing"
+        "hug",
+        "kiss"
       ],
       "string": "(づ｡◕‿‿◕｡)づ",
       "id": "d3c18945-d37d-479e-97ea-e3faedbc6a3d"
     },
     {
       "tags": [
-        "hugging",
+        "hug",
         "music"
       ],
       "string": "＼(^o^)／",
@@ -7142,21 +7142,21 @@
     },
     {
       "tags": [
-        "hugging"
+        "hug"
       ],
       "string": "٩꒰ ˘ ³˘꒱۶ⒽⓤⒼ♥♡̷♡̷",
       "id": "7f8a74d3-fc1a-44fb-bbd8-4c8d85fa7a03"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(╯3╰)",
       "id": "69fc9dc9-5721-41b0-82e2-c5457b32578e"
     },
     {
       "tags": [
-        "kissing",
+        "kiss",
         "love"
       ],
       "string": "(-ε- )",
@@ -7164,28 +7164,28 @@
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(TεT)",
       "id": "942b516a-9b97-424d-badf-d87884d9a825"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "✧˖°ˈ·*ε-(๑˃́ε˂̀๑ )",
       "id": "ff897dbf-5abb-495f-ab18-bc684b7b88f6"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "|(￣3￣)|",
       "id": "31f11c4a-04d1-46c7-99f1-1e4f8d8bf044"
     },
     {
       "tags": [
-        "kissing",
+        "kiss",
         "love"
       ],
       "string": "|°з°|",
@@ -7193,42 +7193,42 @@
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "ϵ( ‘Θ’ )϶",
       "id": "08dcade4-dbb5-44a6-a958-558b35376eb6"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "애❣⃛ღсμтёღ♡(˘ᵋ ˘ )",
       "id": "e62ecee2-bba3-4d6a-b3c6-f80cbd35f0a5"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "（＿ε＿）",
       "id": "10c7f76d-2de7-4894-9955-a51eaf698c88"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "（。ˇ ⊖ˇ）",
       "id": "2c72de71-f50d-4895-8a8e-5d76ddda05c0"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(‘ε’)",
       "id": "81711b1f-f4f4-4a96-8490-3fa3081805f4"
     },
     {
       "tags": [
-        "kissing",
+        "kiss",
         "love"
       ],
       "string": "（＠ーεー＠）",
@@ -7236,7 +7236,7 @@
     },
     {
       "tags": [
-        "kissing",
+        "kiss",
         "love"
       ],
       "string": "（*＾3＾）",
@@ -7244,93 +7244,93 @@
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "（*＾3＾）/～☆",
       "id": "8d59acfd-f829-4d5d-851f-b630a20aaf30"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(*￣з￣)",
       "id": "ab014dad-5b40-4380-87cb-f3cf8297fd01"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(´ε｀*)",
       "id": "341814fa-66ed-460a-9711-98e222d0b435"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "（￣ε￣＠）",
       "id": "e139a032-8e73-4a93-9b3b-e38e64c4d0a6"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(~￣³￣)~",
       "id": "a4830d40-de18-4d0c-a1a9-b8c3013e5c3d"
     },
     {
       "tags": [
-        "kissing",
-        "waving"
+        "kiss",
+        "wave"
       ],
       "string": "(○´3｀)ﾉ",
       "id": "8df089a8-e19f-4f4f-9ae4-a22609ccddf5"
     },
     {
       "tags": [
-        "kissing",
-        "winking"
+        "kiss",
+        "wink"
       ],
       "string": "（○゜ε＾○）",
       "id": "55212456-111f-48f5-8794-b51f925d7672"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(☆´3｀)",
       "id": "b1de275f-34c8-4e59-920c-950894de6c99"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(ΘεΘ;)",
       "id": "d740c6d7-44b4-47b3-8014-44321f89ee10"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(ΦзΦ)",
       "id": "194894e9-f21b-482e-8bd4-0a4625f58edb"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(ु*´З`)ू❣",
       "id": "7ab80054-7eb1-44f9-a4fd-34b8a8eef926"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "～(^з^)-☆",
       "id": "39924865-983e-4310-80e9-93ce9a541068"
     },
     {
       "tags": [
-        "kissing",
+        "kiss",
         "music"
       ],
       "string": "ヽ(*´з｀*)ﾉ",
@@ -7338,526 +7338,526 @@
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(≡ε≡；)",
       "id": "1afd1909-ba81-4296-9021-8ccd353a6219"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(。´✷ฺЗ✷ฺ)・;゛.:’;、",
       "id": "0a3fe2aa-a553-4066-a977-f3d21dcaf437"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(。≖ˇ3ˇ≖｡)",
       "id": "4784e37f-a7f8-44c3-9970-01f1098e9fb1"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(っ˘зʕ•̫͡•ʔcнϋෆ*",
       "id": "d60987e9-3efd-4691-aefa-c0e904e12f29"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "ヾ(❛ε❛“)ʃ",
       "id": "c6d2cc45-7d7c-4f0a-bed2-b44c476cfefc"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "(๑ᵕॢ૩ᵕॢ)*౨˚ൗ",
       "id": "0b8e4098-cd2e-479d-b900-a1f4d8794f02"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "♡´͈ॢ ᵌˋ͈ॢꉧ´͈ॢᵋ ˋ͈ॢ♡",
       "id": "9b854c7a-f678-4115-9f88-572c9f433bc2"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "<ब₍₍( ˃̗εू˂ )₎₎<ब",
       "id": "a4a9e310-aabf-4ce2-a60c-dd0f74e976c3"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "( ˘•૩•˘ ).｡oஇ",
       "id": "90c43682-24ab-4378-b767-a894ec6f4230"
     },
     {
       "tags": [
-        "kissing"
+        "kiss"
       ],
       "string": "˓( ˶ ❛ ꁞ ❛ ˶ )˒˒",
       "id": "4680eda4-4110-4292-8f8c-10aa39f2e6e1"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "(*´艸`*)",
       "id": "19773ff2-3093-4493-8f3d-e89d31c8f692"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "(●´艸`)",
       "id": "1a575faa-b4c8-4faf-b610-fb0f759a7b5e"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "｡ﾟ(TヮT)ﾟ｡",
       "id": "65a2a9cc-68ea-41fb-b3cc-af0b1ebb2cb1"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "( ´艸｀)",
       "id": "9045c558-f6c7-465f-9bae-fbf4b561a8b6"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "（・∀・）",
       "id": "e58ae6de-d485-40d2-9801-cbf78cd83396"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "(；-◞౪◟-)",
       "id": "b99d9a36-90ce-4051-84fe-1d22b8a2b8fa"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "(｡ >艸<)",
       "id": "f7ed2480-8175-489c-a8c8-52baf311d90e"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "(*・艸・)",
       "id": "538e3a4e-2e06-4374-aab1-ddf74ec5e8ea"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "(*≧▽≦)ﾉｼ))",
       "id": "479ad70f-a23b-4e29-9d00-30286b133c72"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "(*≧艸≦)",
       "id": "3c5eadda-1f12-450c-b939-98f41019e31b"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "（⌒▽⌒）",
       "id": "c8de8b7f-e4c2-41da-ac16-ddfa9da913a9"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "(◎ヮ◎)",
       "id": "c7076a99-1d97-4dbe-88a1-d99129d11462"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "ʕ̡̢̡̡̢̡̡̢♡ᵒ̴̷͈艸ᵒ̴̷͈॰ʔ̢̡̢̢̡̢̢̡̢✧",
       "id": "3b4818a8-06f7-46a7-add1-37c76358baa0"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "Σ (੭ु ຶਊ ຶ)੭ु⁾⁾",
       "id": "77af13fe-3318-48b0-9c12-649e22a9caf3"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "(ᗒᗜᗕ)՛̵̖",
       "id": "89a2aa17-5046-47e1-aff8-7cb8d1eabc5f"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "(* ˚᷄ 艸 ˚᷅ *)",
       "id": "1a9f1a51-69ab-482f-af29-634094cddc7c"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "∗˚೫˳(●ᴖ͙̏ᴗॢᴖ͙̋●)˳೫˚∗",
       "id": "756ec9cc-3d6d-452b-baf5-86b7b600f1de"
     },
     {
       "tags": [
-        "laughing"
+        "laugh"
       ],
       "string": "(੭ु റ̆ ˒̫̮ റ̥)੭ु⁾⁾",
       "id": "7c4137dc-b842-43af-b9f2-cd111f379420"
     },
     {
       "tags": [
-        "laughing",
-        "thinking"
+        "laugh",
+        "think"
       ],
       "string": "(˃̴̀ᄇॢ˂̴́ ∗)",
       "id": "41c0513e-0740-4f9b-9fe1-330715cf1138"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "＿ﾉ乙(､ﾝ､)_",
       "id": "f9b394ed-a61f-41a7-97c5-13b5594e2993"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(´〜｀*) zzz",
       "id": "701fec32-ceac-4e6f-aa13-1a4851b0dbca"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(ι´Д｀)ﾉ",
       "id": "b9a1e24d-a2bf-4160-ae4e-2d6f681fa8d2"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "_(：3 」∠ )_",
       "id": "39db83cb-71ac-4cf1-ab81-e92ae3e7312e"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "_(┐「ε:)_",
       "id": "e303cd70-7b2e-4080-8a48-bf3d5e9104bc"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "- =͟͟͞͞ (¦3[▓▓])",
       "id": "6018555a-aaaf-4e78-9954-18c41057606d"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "( -_-)>c[_]",
       "id": "baecaf6c-1285-4b6e-b903-5c7b036408ad"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(_ _)ヾ(‘ロ‘)",
       "id": "2cce96b7-8142-42e1-b7f1-1bd462edccc4"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(-_-) zzz",
       "id": "9d55b822-1d1f-402c-aee3-27b05b71b27c"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(-, – )…zzzZZZ",
       "id": "2dea7439-ff30-4dff-9674-fa930ea8d8ea"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(-ｪ-)｡o",
       "id": "4e6c4776-3ca5-4f5c-9d5c-9fb0d70bdc89"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(;´ρ`)",
       "id": "79e4bf7c-4a5f-428e-a1d4-28af4c4b37d4"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(:3[▓▓▓▓▓▓▓▓]",
       "id": "86917d32-1589-4a99-944c-922b8522c8ae"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(。-ω-)zzz",
       "id": "a68b8533-b513-4d15-ab8b-003de106aa90"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "₍₍ ᕕ( ･᷄ὢ･᷅ )ᕗ⁾⁾",
       "id": "52195dbd-e07a-40be-b91e-5a2e1f47f230"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "₍₍ ᕕ(´ ω` )ᕗ⁾⁾",
       "id": "fd797488-da31-4196-ada0-74a6e9a5e268"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "（)´д`(）",
       "id": "a4eca3c4-a051-45c8-b4ab-b6880760846b"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(*-ω-)",
       "id": "9a3fa307-9518-437e-bb7c-8eebd0d415c1"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(*´ο`*)",
       "id": "ebe64653-fb9b-463c-8a1c-561c86f14aac"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(´～`)",
       "id": "53740c05-a56b-4bd3-a229-590302363f2e"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "（´□｀川）",
       "id": "699f9bba-7846-4579-b525-49f92531494e"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(o´Д`)",
       "id": "eeb4a4c3-4f73-4216-b28a-1f3eb17e00f4"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(ᴗ˳ᴗ)",
       "id": "e7bc23b1-cb17-498e-a094-b789cca3a903"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(ᵕ≀ ̠ᵕ )",
       "id": "1e454794-0784-4706-88b0-1a60d5c019b4"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "［(－－)］zzz",
       "id": "bc4bbf74-6e0e-4023-ad71-c733626e44cb"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "{zzz}°°°( -_-)>c[_]",
       "id": "41180dfb-d16d-435e-ae66-5a25e3f2af0a"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "【:εω",
       "id": "239ff2bb-8f19-4ef0-8574-b89fc3b4e885"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "＼（´Ｏ｀）／",
       "id": "39e72774-5260-40b9-bd16-d0054e6b92af"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "＼(o￣∇￣o)/",
       "id": "c8a1661e-8c66-434c-88db-7619ccc9c45c"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "˓(¦:ɝ[▓▓]",
       "id": "07bda856-0743-47ca-a1c5-a4b7c52d8968"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "∑(￣□￣)",
       "id": "93f2a067-91ff-40d9-8d1d-9b592c0e6ae9"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "ヾ(。￣□￣)ﾂ",
       "id": "4533d8f8-b6e7-4310-bd75-48bdb02bf4dd"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "ヾ(￣□￣;)ﾉ",
       "id": "65353829-4120-4dae-b6b4-b771a5b1679a"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "ヾ(￣0￣； )ノ",
       "id": "1ff70bf5-962d-4c4b-9776-4121d4fbf9b9"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "ƪ(‾￣o￣”)ʃ",
       "id": "71792d45-3387-4a0c-ae86-6b803454c1d8"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "ƪ(΄◞ิ۝◟ิ‵)ʃ",
       "id": "6d5efb40-8fdc-4902-b531-675d2917afb4"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(:˒[￣]",
       "id": "4f2424a8-0c98-46b1-9d0d-c8836301a97f"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(∪｡∪)｡｡｡zzz",
       "id": "d321a25a-e65b-4e37-be24-87d9ccf851e6"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(▰˘o˘▰)",
       "id": "41997218-83fc-45f9-aec5-626277af3183"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "ε-(´・｀)",
       "id": "09281925-e70c-4f87-a58b-d9635d1a751e"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "Σ(￣。￣ノ)ノ",
       "id": "98a631fd-7083-48ad-921d-3201ee4f5a61"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(≚ᄌ≚)ƶƵ",
       "id": "b76ae8a8-2b77-4deb-8939-8063d23c27df"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "(-ι_- )))。。。",
       "id": "1e037f20-ce4d-4afb-b159-aebf129ecf03"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "٩(´Д` ;)۶:.*",
       "id": "bf273584-3661-467b-9ada-8b96013fdd22"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "٩(ˊᗜˋ*)و",
       "id": "15d6ff6b-c0b6-4e9d-bb72-b7da9a40b10c"
     },
     {
       "tags": [
-        "sleeping"
+        "sleep"
       ],
       "string": "*｡٩(ˊωˋ*)و✧*｡",
       "id": "082e78b8-80cf-45d4-b07d-f55cbfb70aff"
@@ -8207,50 +8207,50 @@
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "(¬ω¬)",
       "id": "1a023a3d-b4ec-4745-9e42-9437a2580a4c"
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "( ¬_¬)",
       "id": "543ce20b-8bf2-45d6-bd92-f24647f70ed1"
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "(∩⌣̀_⌣́)",
       "id": "76f2f819-cefe-4951-be48-d176c36e706e"
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "(ʃ⌣́,⌣́ƪ)",
       "id": "613e8ffa-3df1-46f4-8b85-cd9ab73e2aa7"
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "<(¬＿¬<)",
       "id": "201c6791-f9cc-4377-a69a-0397e9d1795b"
     },
     {
       "tags": [
-        "thinking",
-        "apologizing"
+        "think",
+        "sorry"
       ],
       "string": "m(￢0￢)m",
       "id": "70292bc7-7e9d-499e-981d-2c46dc9e40c0"
     },
     {
       "tags": [
-        "thinking",
+        "think",
         "sad"
       ],
       "string": "(－‸ლ)",
@@ -8258,70 +8258,70 @@
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "(•᷉ुε ू•᷈,)",
       "id": "f00c5b01-17d6-46af-be4f-3223b04637ee"
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "๐छ ੂछ๐",
       "id": "f1cb7b37-072f-4316-bc0a-d98749195d93"
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "눈_눈",
       "id": "817e4df1-e53f-4d57-94f8-123f894d85d5"
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "Σ(-᷅_-᷄๑)",
       "id": "3b377388-075f-4ac8-b442-176899ce484b"
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "(.﹒︣︿﹒︣.)",
       "id": "becb1828-ad7e-4d1d-a7d9-85231e9f72d0"
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "( ･᷄ㅂ･᷅ )",
       "id": "c1465504-e580-44f8-b285-4adebe7e890a"
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "( ᵕ́ૢ‧̮ᵕ̀ૢ)‧̊·*",
       "id": "9832c98c-7a34-4039-ab69-82fc88df9943"
     },
     {
       "tags": [
-        "thinking"
+        "think"
       ],
       "string": "(๑•̆૩•̆)",
       "id": "6d5cfc56-a946-4e1a-ab60-6f7db258ced2"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(,, ･∀･)ﾉ゛",
       "id": "5b6c6f1e-fb23-4ec6-a109-e0ad854528c4"
     },
     {
       "tags": [
-        "waving",
+        "wave",
         "surrender"
       ],
       "string": "(;-_-)/",
@@ -8329,112 +8329,112 @@
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(｡･ω･)ﾉﾞ",
       "id": "479bd4ba-a64e-4ef3-a8e7-1ed4f574afa3"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(。･д･)ﾉﾞ",
       "id": "5ac6c0c6-9f5d-434d-b93d-24f86cdec5c4"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(｡´∀｀)ﾉ",
       "id": "eb332c58-b33c-43c8-9beb-5f4c6fc8cf46"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(/・0・)",
       "id": "3dc2070e-6ecc-4359-aa58-cb4aef91a42c"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(´・ω・)ﾉ",
       "id": "758a771c-3cde-4d3a-bc25-ffdbe07abec7"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(￣∠ ￣ )ﾉ",
       "id": "521343a5-0163-4b00-9664-3c108b8ea41a"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(=ﾟωﾟ)ノ",
       "id": "59cb0d27-4fea-47bf-80b9-387643d3ebef"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(ノ^∇^)",
       "id": "98588d09-7fcf-4085-8ff5-29c9cf85f85f"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "＼(°o°；）",
       "id": "c7397282-c6ad-4a4d-92ad-d0c3539e896f"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヽ(´･ω･`)､",
       "id": "30001580-7cee-4c57-aca9-c891637bf84c"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "( ・_・)ノ",
       "id": "bf751d71-9374-4659-b363-73ebf5ce0026"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "( ･ω･)ﾉ",
       "id": "e1bbf309-c707-4889-af4d-c64918adfd20"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "( ^_^)／",
       "id": "b055ff48-4387-459d-931b-f0f44a2f09e1"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "（ ゜ρ゜)ノ",
       "id": "62116e25-007c-4cc4-bb98-d0e5c2a68c1c"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "( ﾟ▽ﾟ)/",
       "id": "b864492f-2dee-4ed4-a0d9-499188631dde"
     },
     {
       "tags": [
-        "waving",
+        "wave",
         "surrender"
       ],
       "string": "(;-_-)ノ",
@@ -8442,7 +8442,7 @@
     },
     {
       "tags": [
-        "waving",
+        "wave",
         "surrender"
       ],
       "string": "(。-ω-)ﾉ",
@@ -8450,113 +8450,113 @@
     },
     {
       "tags": [
-        "waving",
-        "winking"
+        "wave",
+        "wink"
       ],
       "string": "(。^_・)ノ",
       "id": "8f27d3b8-cc33-4e2e-a9ac-c4f30758bccf"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(*^･ｪ･)ﾉ",
       "id": "68854d2c-bd55-4d5d-a02a-4a960faaa627"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(*＾▽＾)／",
       "id": "3dceab6f-2389-40e1-9fbe-ae15a1941acd"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(*￣Ｏ￣)ノ",
       "id": "ad1d7762-dbb1-404e-8957-e5a94ad12a73"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(^ Q ^)/",
       "id": "46c8c2f1-0d56-4496-a321-c29a1d2d4e18"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(^-^*)/",
       "id": "795f8304-8745-4cd1-9c86-01cc6be39192"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(^o^)/",
       "id": "87262b15-16fc-49f2-9868-6b8846c45213"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(￣▽￣)ノ",
       "id": "4d29d905-c043-460f-babd-ab77e2ba685b"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(=ﾟωﾟ)ﾉ",
       "id": "cb5dafb7-dd3d-4473-8cad-808f0fee7300"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(o・・o)/",
       "id": "dcfe9bb6-2123-4619-bab0-52c9c359f1b2"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(o´ω`o)ﾉ",
       "id": "dc52bcf0-324c-40b7-bad1-de9247292dad"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(ﾉ´∀｀*)ﾉ",
       "id": "901a119e-23e1-4eaf-b8bc-71f302b8cec6"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "@(o・ェ・)@ノ",
       "id": "06f1151e-384c-44e0-bc7c-793cc73c769b"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "＼( ･_･)",
       "id": "2001c748-2c6f-4b6b-830a-a394c1017b93"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "＼(-_- )",
       "id": "7f9c8be7-782d-4dec-8e8a-f4a72e084dad"
     },
     {
       "tags": [
-        "waving",
+        "wave",
         "surrender"
       ],
       "string": "＼(-o- )",
@@ -8564,71 +8564,71 @@
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "＼（＾∀＾）メ（＾∀＾）ノ",
       "id": "51db0da7-d6a7-4a99-803d-37ae86748899"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "＼(＾▽＾*)",
       "id": "a193a70a-fe7d-4d9f-9abb-a7e23c82abb7"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "＼(￣O￣)",
       "id": "900c31b5-ed19-4ab9-8471-bc599dd91bd0"
     },
     {
       "tags": [
-        "waving",
-        "winking"
+        "wave",
+        "wink"
       ],
       "string": "~(＾◇^)/",
       "id": "17b95aa3-c739-46c9-9f21-3377f0296710"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "~ヾ ＾∇＾",
       "id": "7601a3bf-9c2c-4461-aedd-737b9f488cde"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "~ヾ(＾∇＾)",
       "id": "9225b19e-d9ca-472a-b717-356fbe65196c"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "╭(°ﾛ°”)╯",
       "id": "7564685f-91fa-4718-bc38-b730c3c0588d"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ー( ´ ▽ ` )ﾉ",
       "id": "0102a681-bdbc-48dd-af38-d4c3ceaed6c4"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヾ( ‘ – ‘*)",
       "id": "9944ea34-88b8-428c-81bf-f78f840bc60d"
     },
     {
       "tags": [
-        "waving",
+        "wave",
         "surrender"
       ],
       "string": "ヾ(-_-;)",
@@ -8636,238 +8636,238 @@
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヽ(･∀･)ﾉ",
       "id": "ac56fa63-9611-4f68-ba3d-79cf64f44e23"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヾ(･ω･`｡)",
       "id": "f3688de9-34e5-47ae-8e5a-cc28798dcebb"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヾ(・ω・ｏ)",
       "id": "e83f8a9f-2a44-408c-89de-7330e826b383"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヾ(｡･ω･｡)",
       "id": "0b32eca8-9655-46dc-852d-ead299e09a5d"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヾ(｡´･_●･`｡)☆",
       "id": "0d7b51bd-ddf9-4808-9f5e-34b01c5eb48c"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヽ(๏∀๏ )ﾉ",
       "id": "eb8cd0cb-cf14-425a-8b57-1ace3fdc3070"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヾ(´･ω･｀)",
       "id": "c1e95254-a04a-4c2c-96d9-b0f2370fb430"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヾ(´￢｀)ﾉ",
       "id": "184e7e5f-0e4c-479e-b347-d930896838a0"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヾ(＾-＾)ノ",
       "id": "ecfc414c-5550-4ab5-b65a-7c406f53fe5c"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヾ(＾∇＾)",
       "id": "daff7971-3fb3-4831-9aeb-6c3daf460cf4"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヽ(＾▽＾)人(＾▽＾)人(＾▽＾)ﾉ",
       "id": "7df421a7-d184-41ec-af76-c67b72a28775"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヽ(ﾟ◇ﾟ )ﾉ",
       "id": "657fb751-f2dd-45d3-82fe-42499986457e"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヾ(◜▿‾ 三 ‾▿◝)ﾉ",
       "id": "e6717d8c-520d-4446-b49f-e732cbb78460"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヾ(☆▽☆)",
       "id": "af9cebbe-7464-41f6-a8d0-5b7d9d4df9c9"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヘ(‘◇’、)/",
       "id": "883dd4ed-a742-45fc-9520-510eb1e5fbeb"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヘ(°￢°)ノ",
       "id": "03282d8e-bdd8-4c6b-8418-4533e082e4d0"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ヾ(oﾟｘﾟo)ﾉ",
       "id": "f733b604-2329-4502-a307-40aa24087299"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(^ _ ^)/",
       "id": "7545c8a6-5003-492e-84ce-08e7c0ac452b"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "(。･∀･)ﾉ",
       "id": "f5b3e646-12c9-44b2-9def-9bb30b9f81b1"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "且_(ﾟ◇ﾟ；)ノﾞ",
       "id": "567ac133-8b40-43e3-84c6-fb1af992991e"
     },
     {
       "tags": [
-        "waving"
+        "wave"
       ],
       "string": "ﾍ(ﾟ∀ﾟ*)ﾉ",
       "id": "87423166-0d26-4471-85da-fb8030150d0e"
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "(･ｪ-)",
       "id": "241a7036-0a66-4649-84fc-329c70252131"
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "(－ｏ⌒)",
       "id": "9efdd26e-2887-400f-b668-852ad3d32837"
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "（＾＿－）",
       "id": "246982be-c9b4-45cb-94fa-074a458f8228"
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "(^_-)",
       "id": "0464b87f-5a52-4b32-93fd-9c006c5d68df"
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "（＾_-）",
       "id": "9a9d6046-0367-429c-90a2-81b71f8de4e8"
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "（＾＿－）≡★",
       "id": "de20ccd1-59b0-4eb5-83a8-41eb9c9b461e"
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "（＾＿・）",
       "id": "c77e92e8-5260-4e3b-ad90-329745b2c38c"
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "（＾＿−）",
       "id": "686b71ae-0762-45c8-9436-4a8dfa684103"
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "(^_−)☆",
       "id": "a4f4baff-38aa-4fe8-9155-eb02f128c5a4"
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "(⌒.−)＝★",
       "id": "b142a33a-4c83-4d09-8c31-d487e00c385d"
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "(o‿∩)",
       "id": "8d24c138-3184-459c-a899-06b0d13dd2d2"
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "＼（^０＾）／",
       "id": "9a58ade5-b8d6-42b4-9b61-23d5182be26a"
     },
     {
       "tags": [
-        "winking",
+        "wink",
         "animal",
         "monkey"
       ],
@@ -8876,14 +8876,14 @@
     },
     {
       "tags": [
-        "winking"
+        "wink"
       ],
       "string": "☆～（ゝ。∂）",
       "id": "9fad7496-a254-40ee-a271-3bdd1f85021a"
     },
     {
       "tags": [
-        "winking",
+        "wink",
         "fun"
       ],
       "string": "d(-_^)",
@@ -8891,7 +8891,7 @@
     },
     {
       "tags": [
-        "apologizing",
+        "sorry",
         "dead"
       ],
       "string": "ｍ（＿　＿；；ｍ",
@@ -8899,77 +8899,77 @@
     },
     {
       "tags": [
-        "apologizing"
+        "sorry"
       ],
       "string": "_:(´□`」 ∠):_",
       "id": "c19d83b1-cbe8-41e9-aa98-b7cfb60994db"
     },
     {
       "tags": [
-        "apologizing"
+        "sorry"
       ],
       "string": "(シ_ _)シ",
       "id": "709fe2fb-49a9-44f8-a654-d3d88f5115bc"
     },
     {
       "tags": [
-        "apologizing"
+        "sorry"
       ],
       "string": "（ﾉ´д｀）",
       "id": "d838b0d2-c23b-4a6a-8123-971c5209e5a4"
     },
     {
       "tags": [
-        "apologizing"
+        "sorry"
       ],
       "string": "<(_ _)>",
       "id": "0ca2ec57-3008-4410-ba3c-8304f36e9d7f"
     },
     {
       "tags": [
-        "apologizing"
+        "sorry"
       ],
       "string": "＜(。_。)＞",
       "id": "d3d359c5-8310-4e3a-99d1-50e533f7354a"
     },
     {
       "tags": [
-        "apologizing"
+        "sorry"
       ],
       "string": "m(_ _)m",
       "id": "c612f98d-d71b-4c0a-bc30-484addb441b5"
     },
     {
       "tags": [
-        "apologizing"
+        "sorry"
       ],
       "string": "m(._.)m",
       "id": "8f1fc029-f7b1-44c0-af51-755f795aaf87"
     },
     {
       "tags": [
-        "apologizing"
+        "sorry"
       ],
       "string": "ｍ（．＿．）ｍ",
       "id": "e8f6d511-7186-4f58-8116-a8af608dfa3a"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "・゜・(ノД`)",
       "id": "df6eb5a9-7b0d-4787-83e0-7fe97b7b3bda"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": ".・゜゜・（／。＼）・゜゜・．",
       "id": "06886c8f-6cab-40e0-9721-bd4feced5f6d"
     },
     {
       "tags": [
-        "crying",
+        "cry",
         "surrender"
       ],
       "string": "(oT-T)尸",
@@ -8977,56 +8977,56 @@
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": ".·´¯`(>▂<)´¯`·.",
       "id": "b2139b95-209c-4857-876a-40d313a7a208"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "｡･ﾟヾ(✦థ ｪ థ)ﾉ｡ﾟ･｡",
       "id": "3f9c44bc-effb-44b9-a732-5ea4ca6630a1"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "。：゜(；´∩｀；)゜：。",
       "id": "e33dd8b9-1641-4096-b573-6ce70d023207"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "｡ﾟ( ﾟஇ‸இﾟ)ﾟ｡",
       "id": "f6c2955f-ddd8-4e2d-895b-f9790167faad"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "(-̩̩-̩̩͡_-̩̩-̩̩͡)",
       "id": "53196702-91dc-4f95-ab1e-31224fc72529"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "(-̩̩̩-̩̩̩-̩̩̩-̩̩̩-̩̩̩___-̩̩̩-̩̩̩-̩̩̩-̩̩̩-̩̩̩)",
       "id": "cf6e42b9-b58f-40f5-9f41-4f37b3555b03"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "(*´°̥̥̥̥̥̥̥̥﹏°̥̥̥̥̥̥̥̥ )人(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)",
       "id": "903963c8-4fd2-40d5-8a88-8f5fea5db9e3"
     },
     {
       "tags": [
-        "crying",
+        "cry",
         "surrender"
       ],
       "string": "(/ _ ; )",
@@ -9034,28 +9034,28 @@
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "(´；Д；｀)",
       "id": "52ffaea6-9600-477d-8be6-8d0abd110b17"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "（πーπ）",
       "id": "3ac0d1ae-48e4-40fd-9a06-ffae92345d49"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "(இ﹏இ`｡)",
       "id": "5372951a-3d58-4878-a3f2-7ab33f9b1875"
     },
     {
       "tags": [
-        "crying",
+        "cry",
         "troll"
       ],
       "string": "༼ ༎ຶ ෴ ༎ຶ༽",
@@ -9063,7 +9063,7 @@
     },
     {
       "tags": [
-        "crying",
+        "cry",
         "troll"
       ],
       "string": "༼ ༏༏ີཻ༾ﾍ ༏༏ີཻ༾༾༽༽",
@@ -9071,127 +9071,127 @@
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "❣◕ ‿ ◕❣",
       "id": "4d72b4dd-a88d-4d59-8309-56ca1d70a3e6"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "o(TヘTo)",
       "id": "3c143c9d-b9ac-48af-9166-20128c4fd352"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "(　-̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥᷄◞ω◟-̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥᷅ )",
       "id": "a28abe89-2b04-4c6f-9be2-1911ff0096ca"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "(づ-̩̩̩-̩̩̩_-̩̩̩-̩̩̩)づ",
       "id": "6adedd7a-c318-471d-a9ac-5f30858ee8a5"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "( ͒ ඉ .̫ ඉ ͒)",
       "id": "d6c9644f-2a9b-417d-bb1a-291be03b935c"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "ლ(ٱ٥ٱლ)",
       "id": "04709f67-5121-4b78-bde4-40d7f189c807"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "Ψ(●°̥̥̥̥̥̥̥̥ ཅ °̥̥̥̥̥̥̥̥●)Ψ",
       "id": "a15a847f-3d4b-4cca-9d7b-860db61aab1b"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "(●⌇ຶ ཅ⌇ຶ●)",
       "id": "33ed5856-448c-4dd0-815f-43fe8d97676d"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "( •́દ•̩̥̀ )",
       "id": "6dfe21f0-cdaf-4351-9cbf-216364274a6d"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "(ఠ్ఠ ˓̭ ఠ్ఠ)",
       "id": "7ee99d51-c46f-426c-b46d-dd16b3e1bd8e"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "(๑′̥̥̥▵‵̥̥̥ ૂ๑)",
       "id": "7de67b91-66ce-43d4-ac8a-728789fe362c"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "(๑•́₋•̩̥̀๑)",
       "id": "0888f760-260a-4fdd-880d-4607852de11d"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "⁽ƈ ͡ (ुŏ̥̥̥̥םŏ̥̥̥̥) ु",
       "id": "e126afbd-a70b-47b7-93c4-163b8fcbd246"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "…(•̩̩̩̩＿•̩̩̩̩)",
       "id": "888e4fe5-7a46-4b78-aa29-787e8d068e99"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "°(ಗдಗ。)°.",
       "id": "a7ce4225-1262-477e-832d-0e4463683606"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "˚‧⁺(͘๑̊/﹏\\)⁺‧˚",
       "id": "71b08535-0123-4160-9cb7-31d48355ea3b"
     },
     {
       "tags": [
-        "crying",
-        "running"
+        "cry",
+        "run"
       ],
       "string": "̨(༎ິ῀̫ ༎ິ ̨ )͞˭̳̳̳˭̳̳̳ˍ̿̿ˍ̿ˌ˳ˏ̇⋅∴༣",
       "id": "245ab9fa-6b00-44f7-baa2-5c49cefab320"
     },
     {
       "tags": [
-        "crying",
+        "cry",
         "dead"
       ],
       "string": "(≖͞_≖̥)",
@@ -9199,175 +9199,175 @@
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": ".°(ಗдಗ。)°.",
       "id": "5c4cd950-2de2-4a2d-8694-50e44f4e22f6"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "(๑˃̥̩̥̥̥̥̆ಐ˂̩̩̥̥̩̥̆৭)",
       "id": "63c0f8c4-87fc-49cb-89a4-ef2d25d04aaf"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "‧⁺◟( ᵒ̴̶̷̥́ ·̫ ᵒ̴̶̷̣̥̀ )",
       "id": "3695f541-cd7f-43c8-aa87-7afdfe1c5c8b"
     },
     {
       "tags": [
-        "crying"
+        "cry"
       ],
       "string": "ƈ ͡ (ुŏ̥̥̥̥ ‸ ŏ̥̥̥̥) ु",
       "id": "f6be445e-eb32-47ee-b276-5123ee740eef"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "ε=ε=ε=ε=ε=┌(；　・＿・)┘",
       "id": "ec91ff02-1522-4a11-8189-65418b914211"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "⊂(‘ω’⊂ )))Σ≡=─༄༅༄༅༄༅༄༅༄༅",
       "id": "ea3fd098-64f2-49d1-b2d6-573c07960ee4"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "ε===(っ≧ω≦)っ",
       "id": "899a44a4-d21f-4849-bb85-99c9efb7c368"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "ε=ε=┏( >_<)┛",
       "id": "8c8cb324-c8ab-4a7a-ae97-fee08353c2bb"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "ε=ε=ε=┌(๑ʘ∀ʘ)┘",
       "id": "a2e1787d-847e-407c-987c-65b6ce4572ca"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "ε=ε=ε=ε=┏(;￣▽￣)┛",
       "id": "c31a3c82-f5c2-4258-bbef-bb69a25a7773"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "°◦=͟͟͞͞ʕ̡̢̡ु•̫͡•ʔ̡̢̡ु ☏",
       "id": "bbe3eb37-3163-430f-a29b-294677651347"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "- =͟͟͞͞ =͟͟͞͞ ﾍ( ´Д`)ﾉ",
       "id": "242bb9f3-c075-467f-8d8c-3cedcbb663d3"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "ε=ε=ε=ε=ε=ε=┌(๑ʘ∀ʘ)┘",
       "id": "d6d7f4aa-837e-441b-b45e-ad7e21e2da45"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "=͟͟͞͞( ∩ ‘ヮ’=͟͟͞͞) ੭ु⁾⁾",
       "id": "01a376c3-e536-4200-9d22-3733150337e3"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "૮(”ړ ა)͞=͟͟͞͞=͟͟͞͞=͟͟͞͞=͟͟͞͞=͟͟͞͞=͟͟͞͞ #",
       "id": "fbb62842-a055-492f-bb0d-a76092db731e"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "ε=ε=(怒ﾟДﾟ)ﾉ",
       "id": "f65e3d59-5786-452f-bb9a-5c028aba83f0"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "ヽ(￣д￣;)ノ=3=3=3",
       "id": "8d6aa9b5-48ed-4327-a8b0-bba4effb485a"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "=͟͟͞͞ʕ•̫͡•ʔ =͟͟͞͞ʕ•̫͡•ʔ =͟͟͞͞ʕ•̫͡•ʔ =͟͟͞͞ʕ•̫͡•ʔ =͟͟͞͞ʕ•̫͡•ʔ",
       "id": "7f2e9e00-ebf5-4580-9986-434d6842b3b2"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "─=≡Σ((( つ•̀ω•́)つ",
       "id": "737a9109-ddcc-4b27-9530-0e35f241dacd"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "C= C= C= C= C= C= C= C= C= ┌(;・ω・)┘",
       "id": "aecabb66-d46c-4ee7-a3ad-5821b21a9ffe"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "(ↀДↀ)⁼³₌₃",
       "id": "1a8d2c24-b933-4f04-984c-dbdabb7baef2"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "৫(”ړ৫)˒˒˒˒",
       "id": "54563b91-8144-4050-a5ea-33c6ce1231f4"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "=͟͟͞͞(๑•̀=͟͟͞͞(๑•̀д•́=͟͟͞͞(๑•̀д•́๑)=͟͟͞͞(๑•̀д•́)))",
       "id": "36db5362-c6c5-45d9-8648-94e76b1677d2"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "ε=ε=(っ*´□`)っ",
       "id": "ae2f7922-4530-4b9a-9a0e-92a81073c7ca"
     },
     {
       "tags": [
-        "running"
+        "run"
       ],
       "string": "─=≡Σ(([ ⊐•̀⌂•́]⊐",
       "id": "4a0c95ad-d9f0-479e-8a78-7e369763f2ed"
@@ -9557,175 +9557,175 @@
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "＿φ( °-°)/",
       "id": "ddaac9ab-7fc2-4aec-a462-496e32b1ae24"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "＿φ(°-°=)",
       "id": "dde3c9b8-efc7-40ae-bb31-7935483152aa"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "φ(．．;)",
       "id": "0d8715df-e809-47a6-9944-c34c534b9b8a"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "φ(^∇^ )",
       "id": "120421ee-bcf0-4bc8-ba43-c7b73034684f"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "φ(◎◎ヘ)",
       "id": "cebf3cfd-5095-452a-b33e-4c95e8e6ade8"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "ψ(。。)",
       "id": "702f9928-2b36-41e1-af30-b3198cd1c258"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "___ψ(‥ )",
       "id": "f1d2e8c8-9cc7-4f10-b4af-4dcb15a7be03"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "＿φ(￣ー￣ )",
       "id": "7f31f966-47fc-4634-b352-fa1476cd193e"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "ණ⃛(ᵒ͈̑ᴗ̂ᵒ͈̑ )”",
       "id": "cd761c4b-d982-4fc3-9bcd-1716e09ce2ac"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "＿〆(。。)",
       "id": "b0ae3baf-2e1c-4381-8614-b873a23575d5"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "(‘•̀ ▽ •́ )φ",
       "id": "e53a7d8a-7e2d-4df7-8945-7247cdf4901d"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "φ(・ω・｀ )",
       "id": "0d8686b3-2f89-4204-a0d6-5110cbd1189a"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "φ(._.)",
       "id": "167a4368-b74c-4390-b3b4-b151336ebe8a"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "φ（．．）",
       "id": "bcd4f631-eafc-40a2-bcb5-aa02a610cc22"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "φ(￣ー￣ )ノ",
       "id": "1d2edd8e-2c4a-4a19-880a-2e3c16b10abf"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "φ(°ρ°*)メ",
       "id": "a8166176-a2ca-48c3-9bc6-70ec157cebc6"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "〆(・∀・＠)",
       "id": "3c33301e-f74e-46c0-8546-45a41561e2ca"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "〆(´Ｕ_｀*)",
       "id": "1c52f6f8-e6b5-470e-b07f-c2df10fbcd18"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "φ(^ω^*)ﾉ",
       "id": "909f69cf-6a87-4669-924f-168e0b3ba405"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "…φ(o´ωﾟo)φ…",
       "id": "d424d8fd-5865-48ca-bc3d-668be43ebea8"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "σ(ൈ)φ",
       "id": "d79a2471-68bd-416b-abb3-c2c5dac4ca8b"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "໒(⊙ᴗ⊙)७✎▤",
       "id": "3445a90b-d10e-4a7c-87f7-bd278d713a84"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "[≡] 〆(・⺫・‶)",
       "id": "61398dd8-87a6-48dc-8442-efca116166b0"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "(๑╹o╹)φ",
       "id": "ab26553a-51f8-4098-bf38-f20fdfe8a3dd"
     },
     {
       "tags": [
-        "writing"
+        "write"
       ],
       "string": "†=”Ⴛ̸ ♡(˃͈ દ ˂͈ ༶ )",
       "id": "3baedc12-290e-4b86-a736-3b375ecaca70"
@@ -10292,7 +10292,7 @@
     {
       "string": "(╯'□')╯︵ ┻━┻",
       "tags": [
-        "crying",
+        "cry",
         "table flip"
       ],
       "id": "e2cd541f-32a6-4ac8-97af-04c735fd44d7"
@@ -10419,7 +10419,7 @@
       "string": "|ʘ‿ʘ)╯",
       "tags": [
         "fun",
-        "waving"
+        "wave"
       ],
       "id": "be50dd03-d9b3-4107-a107-9f3572733151"
     },
@@ -10506,7 +10506,7 @@
     {
       "string": "(╥﹏╥)",
       "tags": [
-        "crying",
+        "cry",
         "sad"
       ],
       "id": "18ad09d0-99d6-42ac-b04c-0551f57c86ed"
@@ -10514,7 +10514,7 @@
     {
       "string": "♒((⇀‸↼))♒",
       "tags": [
-        "thinking"
+        "think"
       ],
       "id": "6eb54462-702a-420b-b7c4-e5fdb7fbde57"
     },
@@ -10549,7 +10549,7 @@
       "id": "85cdebe4-7a30-4b33-a623-647ba10bc012"
     },
     {
-      "string": "(っ- ‸ -)っ ♥ Boston",
+      "string": "(っ- ‸ -)っ",
       "tags": [
         "sad"
       ],
@@ -10643,7 +10643,7 @@
     {
       "string": "༼;´༎ຶ ۝ ༎ຶ༽",
       "tags": [
-        "crying",
+        "cry",
         "sad"
       ],
       "id": "1b3fc6ef-d620-4d53-a213-2e2ca2192cdf"
@@ -10651,7 +10651,7 @@
     {
       "string": "(ʃ˘̩̩ε˘̩ƪ)",
       "tags": [
-        "crying",
+        "cry",
         "sad"
       ],
       "id": "91aa2f24-3e6c-4459-8434-eef35f73c9db"
@@ -10862,7 +10862,7 @@
       "tags": [
         "fun",
         "happy",
-        "waving"
+        "wave"
       ],
       "id": "85cf0613-a8a9-4f34-b403-e3be40ad5e43"
     },
@@ -11239,7 +11239,7 @@
     {
       "string": "ೖ(⑅σ̑ᴗσ̑)ೖ",
       "tags": [
-        "writing",
+        "write",
         "happy"
       ],
       "id": "92df0182-3794-45d5-a39b-ec3de171f6c9"
@@ -11251,7 +11251,7 @@
       "id": "729b40ee-b564-45a9-8337-8515564b2a49"
     },
     {
-      "title": "apologizing",
+      "title": "sorry",
       "id": "0ef0c6db-430a-47a1-bf3d-db31dc558932"
     },
     {
@@ -11275,11 +11275,11 @@
       "id": "5c4a758b-a231-41e2-b91d-fe27c3c229f1"
     },
     {
-      "title": "crying",
+      "title": "cry",
       "id": "b00134fc-48be-47b4-a1c2-5b945bc6f5c7"
     },
     {
-      "title": "dancing",
+      "title": "dance",
       "id": "71785251-77e1-4545-9632-4fe21f9607a5"
     },
     {
@@ -11307,11 +11307,11 @@
       "id": "a1cf540a-2d0c-45fb-b91c-8b3b452ae133"
     },
     {
-      "title": "hiding",
+      "title": "hide",
       "id": "349be2a3-4ad0-4305-9f4d-4980deae4009"
     },
     {
-      "title": "hugging",
+      "title": "hug",
       "id": "aa6ea285-63b9-4a60-8748-935b93faa2a0"
     },
     {
@@ -11319,11 +11319,11 @@
       "id": "90013d95-0044-4448-8d04-a5420556c26d"
     },
     {
-      "title": "kissing",
+      "title": "kiss",
       "id": "2ada1df9-598d-43b9-a529-c24dbb01bfab"
     },
     {
-      "title": "laughing",
+      "title": "laugh",
       "id": "db268b49-5eed-4058-8f75-40d5c8a5e1f9"
     },
     {
@@ -11347,7 +11347,7 @@
       "id": "9ff4e039-21d9-4e0d-a713-2d6337150f14"
     },
     {
-      "title": "running",
+      "title": "run",
       "id": "3a50b2b4-60b5-4b41-847d-a0b1fb0f023d"
     },
     {
@@ -11363,7 +11363,7 @@
       "id": "a614a965-58d9-40d6-a1b4-7a570f573bea"
     },
     {
-      "title": "sleeping",
+      "title": "sleep",
       "id": "1f922a81-5920-4293-ba76-a9de47109b6e"
     },
     {
@@ -11383,7 +11383,7 @@
       "id": "6f696b76-3595-4b8e-bdbd-9f9c24b55921"
     },
     {
-      "title": "thinking",
+      "title": "think",
       "id": "0b390e66-8f48-432f-8b8d-440ee0c4253b"
     },
     {
@@ -11391,7 +11391,7 @@
       "id": "582a46e9-234a-40f7-979f-5f46b7ed0a66"
     },
     {
-      "title": "waving",
+      "title": "wave",
       "id": "da984ef4-bef9-4a47-9b58-420b54edc216"
     },
     {
@@ -11399,7 +11399,7 @@
       "id": "9c586d14-aef5-4af8-b7fb-7907c7372fce"
     },
     {
-      "title": "winking",
+      "title": "wink",
       "id": "cd82bd79-a4d0-4134-8704-c02c02138b87"
     },
     {
@@ -11407,7 +11407,7 @@
       "id": "1d7cab15-020f-4b06-95ca-c1d1d808b07e"
     },
     {
-      "title": "writing",
+      "title": "write",
       "id": "c049f5e6-c776-4372-bf16-aca4fb017e02"
     },
     {
