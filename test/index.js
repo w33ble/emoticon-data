@@ -1,5 +1,6 @@
 var test = require('tap').test;
 var emoticons = require('../emoticons');
+var emoticonCount = 1561;
 
 var tags = [ 'angry',
   'animal',
@@ -61,13 +62,13 @@ test('expected indexes', function(t) {
 
 test('expected tags', function(t) {
   t.plan(tags.length + 1);
-  t.equal(emoticons.tags.length, tags.length);
+  t.equal(emoticons.tags.length, tags.length, 'Tag count should be ' + tags.length);
   emoticons.tags.forEach(function (tag) {
-    t.notEqual(tags.indexOf(tag.title), -1, 'Tags should include ' + tag);
+    t.notEqual(tags.indexOf(tag.title), -1, 'Found an unexpected tag: ' + tag.title);
   });
 });
 
 test('expected emojicons', function(t) {
   t.plan(1);
-  t.equal(emoticons.emoticons.length, 1561);
+  t.equal(emoticons.emoticons.length, emoticonCount, 'Emoticon count should be ' + emoticonCount);
 });
