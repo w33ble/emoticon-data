@@ -4,14 +4,14 @@ var emoticons = require('../emoticons');
 
 var tags = [ 'angry',
   'animal',
-  'apologizing',
+  'sorry',
   'bear',
   'bird',
   'cat',
   'confused',
   'crazy',
-  'crying',
-  'dancing',
+  'cry',
+  'dance',
   'dead',
   'dog',
   'embarassed',
@@ -19,33 +19,33 @@ var tags = [ 'angry',
   'excited',
   'fun',
   'happy',
-  'hiding',
-  'hugging',
+  'hide',
+  'hug',
   'hurt',
-  'kissing',
-  'laughing',
+  'kiss',
+  'laugh',
   'love',
   'monkey',
   'music',
   'pig',
   'rabbit',
-  'running',
+  'run',
   'sad',
   'scared',
   'sea creature',
-  'sleeping',
+  'sleep',
   'smug',
   'stare',
   'surprised',
   'surrender',
   'table flip',
-  'thinking',
+  'think',
   'troll',
-  'waving',
+  'wave',
   'whatever',
-  'winking',
+  'wink',
   'worried',
-  'writing'
+  'write'
 ];
 
 test('it is parseable JSON', function(t) {
@@ -61,11 +61,11 @@ test('expected indexes', function(t) {
 });
 
 test('expected tags', function(t) {
-  var tags = _.map(emoticons.tags, 'title');
+  var dataTags = _.map(emoticons.tags, 'title');
   t.plan(tags.length + 1);
   t.equal(emoticons.tags.length, tags.length);
-  tags.forEach(function (tag) {
-    t.notEqual(tags.indexOf(tag), -1);
+  dataTags.forEach(function (tag) {
+    t.notEqual(tags.indexOf(tag), -1, 'Tags should include ' + tag);
   });
 });
 
