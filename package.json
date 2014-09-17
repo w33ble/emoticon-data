@@ -1,6 +1,6 @@
 {
   "name": "emoticon-data",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Collection of japanese emoticons in JSON format",
   "main": "emoticons.json",
   "scripts": {
