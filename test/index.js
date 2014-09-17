@@ -1,4 +1,3 @@
-var _ = require('lodash');
 var test = require('tap').test;
 var emoticons = require('../emoticons');
 
@@ -61,11 +60,10 @@ test('expected indexes', function(t) {
 });
 
 test('expected tags', function(t) {
-  var dataTags = _.map(emoticons.tags, 'title');
   t.plan(tags.length + 1);
   t.equal(emoticons.tags.length, tags.length);
-  dataTags.forEach(function (tag) {
-    t.notEqual(tags.indexOf(tag), -1, 'Tags should include ' + tag);
+  emoticons.tags.forEach(function (tag) {
+    t.notEqual(tags.indexOf(tag.title), -1, 'Tags should include ' + tag);
   });
 });
 
