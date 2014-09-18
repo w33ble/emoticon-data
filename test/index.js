@@ -1,6 +1,6 @@
 var test = require('tap').test;
 var emoticons = require('../emoticons');
-var emoticonCount = 1561;
+var emoticonCount = 1562;
 
 var tags = [ 'angry',
   'animal',
