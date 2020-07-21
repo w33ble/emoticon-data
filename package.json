@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/w33ble/emoticon-data",
   "devDependencies": {
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.19",
     "tap": "^0.4.12"
   }
 }
