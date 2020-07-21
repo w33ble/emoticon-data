@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/w33ble/emoticon-data",
   "devDependencies": {
-    "tap": "^0.4.12"
+    "tap": "^14.10.7"
   }
 }
